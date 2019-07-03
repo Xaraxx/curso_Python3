@@ -1,6 +1,6 @@
 import turtle 
 
-window = turtle.Screen()
+window = turtle.TurtleScreen()
 dav = turtle.Turtle()
 dav.forward(50)
 dav.left(90)
